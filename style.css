@@ -1,0 +1,48 @@
+/* 04/04/2023 */
+
+body{
+ background-color: green;
+}
+
+h1{
+ text-align: center;
+ font-weight: bold;
+}
+
+main{
+ margin-left: 25%;
+ margin-right: 25%;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+ background: white;
+}
+
+.A input{
+ width: max-content; 
+ margin: 10px 30px 20px 30px;
+}
+
+select{
+ margin: 20px 30px 20px 30px;
+}
+
+label{
+ margin: 20px 20px 10px 20px;
+}
+
+.B input, select{
+ margin: 10px 10px 5px 30px;
+}
+
+div{
+ margin-bottom: 30px;
+}
+
+@media screen and (max-width: 500px){
+ main{
+ margin-left: 5%;
+ margin-right: 5%;
+ }
+}

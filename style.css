@@ -20,7 +20,7 @@ main{
 }
 
 .A input{
- width: max-content; 
+ width: max-content;
  margin: 10px 30px 20px 30px;
 }
 
@@ -45,4 +45,10 @@ div{
  margin-left: 5%;
  margin-right: 5%;
  }
+}
+
+button{
+ float: right;
+ /* padding: 10px; */
+ margin-right: 50px;
 }
